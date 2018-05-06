@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-featured-img: shane-rounce-205187
+featured-img: Other/code
 ---
 
 Hi There!
