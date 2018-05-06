@@ -1,7 +1,7 @@
 ---
 layout: portifolio
 title: About
-permalink: /about/
+permalink: /portifolio/
 ---
 
 Hello Everyone!
