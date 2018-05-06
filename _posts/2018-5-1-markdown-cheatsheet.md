@@ -6,6 +6,8 @@ featured-img: emile-perron-190221
 
 ---
 
+This page was originally inside the Sllek model I used to create this blog. I decided to keep it so if you are interested on learning more about jekyll, Sleek or Markdown, you can use it 😉.
+
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##### Table of Contents  
