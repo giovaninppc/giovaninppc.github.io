@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swift Playground Tutorial"
-featured-img: SMCA/Tab
+featured-img: Other/SwiftPlayground
 categories: [Guides]
 ---
 
