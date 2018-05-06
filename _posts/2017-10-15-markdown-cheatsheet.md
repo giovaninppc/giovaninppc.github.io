@@ -2,8 +2,13 @@
 layout: post
 title: Markdown Cheatsheet
 summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
-featured-img: emile-perron-190221
+featured-img: Other/emile-perron-190221
 categories: Guides
+---
+
+This page was originally included on the [Sleek](https://github.com/janczizikow/sleek) example. You can find more information about it on the page.
+I'll keep this article here if you want to use Sleek too, or know more about Markdown.
+
 ---
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
