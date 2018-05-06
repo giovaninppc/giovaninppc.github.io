@@ -3,8 +3,8 @@ title: Giovani Nascimento Pereira # your site title
 author: Giovani Nascimento Pereira # You :P
 description: > # Meta description of Homepage
   
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://giovaninppc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
