@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The story of how the InterAção app got created"
-featured-img: shane-rounce-205187
+featured-img: IA/IABG
 categories: [App]
 ---
 
-### The Game of Mimic
+# The Game of Mimic
 
 InterAção started as a funny idea.
 
