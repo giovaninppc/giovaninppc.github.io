@@ -8,8 +8,6 @@ categories: [Guides]
 # Swift Playgrounds
 ## And easy tutorial for Swift language, and app development introduction [available in Portuguese]
 
----
-
 You will learn:
 - Swift language basics
 - iOS and Playground view lifecicle 
