@@ -2,13 +2,12 @@
 layout: post
 title: "Hueco Mundo"
 featured-img: Other/Hueco_Mundo
-categories: [Guides]
 ---
 
-# Swift Playgrounds
-## And easy tutorial for Swift language, and app development introduction [available in Portuguese]
+# Hueco Mundo
+### Playground Submission for [WWDC18](https://developer.apple.com/wwdc/)
 
-Hueco Mundo was my Playground Submission for the [WWDC18](https://developer.apple.com/wwdc/).
+Hueco Mundo was my Playground Submission for the [WWDC18 Scholarship](https://developer.apple.com/wwdc/).
 
 If you are not familiar with that, the *WWDC - World Wide Developers Conference* of Apple, is a year event of developers, which brings together developers from all around the world to see and learn more about the new features on the Apple hardware and softwares - like, iOS updates, new frameworks...
 
