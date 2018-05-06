@@ -24,3 +24,5 @@ We couldn't be happier with the results, it all worked! And it was really fun to
 We lost a lot of time playing with friends, familly, friends friends, family friends, and anyone who would like to try it. And it was the very first app I published all by myself.
 
 If you want to play it, [InterAção](https://itunes.apple.com/us/app/intera%C3%A7%C3%A3o/id1332635230?mt=8) is available at the app store 😉.
+
+[![InterAcao icon](../assets/img/posts/IA/download.png)](https://itunes.apple.com/us/app/intera%C3%A7%C3%A3o/id1332635230?mt=8)
