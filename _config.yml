@@ -24,9 +24,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Site to talk about my projects and apps.
+  Im here to talk about my projects and apps,
   Share a little knowledge,
-  and maybe learn some new tihng too
+  and maybe learn some new things too 
   =]
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
