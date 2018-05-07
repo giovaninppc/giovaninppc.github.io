@@ -20,9 +20,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Portifolio', link: '/portifolio'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Portifolio', link: '/portifolio'}
 
 tagline: >
   iOS Developer. Computer Engineering Student at Unicamp, and student at Apple Developer Academy @ Instituto Eldorado.
