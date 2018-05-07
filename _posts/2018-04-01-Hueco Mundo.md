@@ -2,6 +2,7 @@
 layout: post
 title: "Hueco Mundo"
 featured-img: Other/Hueco_Mundo
+categories: [Playgrounds]
 ---
 
 # Hueco Mundo

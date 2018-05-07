@@ -2,7 +2,7 @@
 layout: post
 title: "Swift Playground Tutorial"
 featured-img: Other/SwiftPlayground
-categories: [Guides]
+categories: [Guides, Playgrounds]
 ---
 
 # Swift Playgrounds

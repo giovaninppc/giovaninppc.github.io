@@ -2,7 +2,7 @@
 title: Giovani Nascimento Pereira # your site title
 author: Giovani Nascimento Pereira # You :P
 description: > # Meta description of Homepage
-  iOS Developer. Computer Engineering Student at Unicamp, and student at Apple Developer Academy @ Instituto Eldorado
+  iOS Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://giovaninppc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
