@@ -6,6 +6,7 @@ categories: [App]
 ---
 
 # The Game of Mimic
+##### [Worked as Designer and Developer]
 
 InterAção started as a funny idea.
 
