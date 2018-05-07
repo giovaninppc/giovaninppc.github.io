@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "InterAção"
-featured-img: IA/IABG
+featured-img: IA/IA
 categories: [App]
 ---
 
