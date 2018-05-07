@@ -30,10 +30,9 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-<!-- Card begining -->
+<!-- Card begining BANDEX -->
             <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
               <a href="{{ post.url | relative_url }}">
-              {% if post.featured-img %}
                 <figure class="post-card__thumb">
                   <img
                     src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/Other/Bandex_placehold.jpg",
@@ -41,13 +40,8 @@ layout: compress
                     class="lazyload blur"
                     alt="{{post.title}}"
                   />
-                  <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/Other/Bandex_thumb.jpg" alt="{{ post.title }}"></noscript>
+                  <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/Other/Bandex_thumb.jpg" alt="Bandex"></noscript>
                 </figure>
-              {% else %}
-                <figure class="post-card__thumb">
-                  <div class="dark-bg"></div>
-                </figure>
-              {% endif %}
             </a>
             <a class="post-card__inner" href="{{ post.url | relative_url }}">
               <div class="post-card__header">
@@ -56,7 +50,7 @@ layout: compress
                   <time>25/25/25</time>
                 </span>
               </div>
-                <p>This was an app created to hel the students of the University of Campinas see the Universitary Restaurant Menu easily.</p>
+                <p>This was an app created to help the students of the University of Campinas see the Universitary Restaurant Menu easily.</p>
             </a>
           </div>
 <!-- end of the card (?) -->
