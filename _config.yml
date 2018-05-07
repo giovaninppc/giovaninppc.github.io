@@ -22,7 +22,8 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Portifolio', link: '/portifolio'}
+# Uncomment to keep adding the portifolios section
+#  - {name: 'Portifolio', link: '/portifolio'}
 
 tagline: >
   I'm here to talk about my projects and apps,
