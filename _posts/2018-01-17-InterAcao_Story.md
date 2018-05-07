@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The story of how the InterAção app got created"
+title: "The story of how the InterAção app was created"
 featured-img: IA/IABG
 ---
 

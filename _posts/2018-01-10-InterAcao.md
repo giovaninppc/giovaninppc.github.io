@@ -11,7 +11,11 @@ categories: [App]
 InterAção is a Game not to be played alone.
 The idea was for you to get friends or family together and have a good time.
 
+![IA Menu](../assets/img/posts/IA/menu.jpeg)
+
 I've always enjoyed playing Mimic, and working on InterAção have been great. It was the first app I developed entirely by myself. All the assets, images, code, animations... everything, and it was fantastic.
+
+![IA Game](../assets/img/posts/IA/game.jpeg)
 
 ## Artwork
 
@@ -20,6 +24,8 @@ Every image, asset or cartoon on *InterAção* was hand drawed using an iPad. I 
 Using some apps on iPad, such as the [Illustrator Draw](https://www.adobe.com/br/products/draw.html), it was pretty easy to create vector images and export them into desktop applications to be processed, edited and later, imported inside the game.
 
 The background music was also created on an app, it was made using the iPads [Garage Band](https://itunes.apple.com/br/app/garageband/id408709785?mt=8).
+
+![IA Cards](../assets/img/posts/IA/cards.png)
 
 
 ## The Code
@@ -30,7 +36,7 @@ Due to it's nature, I had to make a nice configuration of database - to load and
 
 I decide to use the [Realm Database](http://realm.io), imported as a *Pod*.
 
-[Realm Database Icon](../assets/img/posts/IA/android_realm.png)
+![Realm Database Icon](../assets/img/posts/IA/android_realm.png)
 
 And it worked amazingly. Realm is a really fast database, that saves Objects, and much easier to use than CoreData. It proved to be reliable and very consistent.
 
@@ -43,7 +49,7 @@ Apart from the database, the rest of the game was made using *UIKit*, including 
 
 Using the Tiles, was much easier to define the position of the pieces, and to move them around the board.
 
-[SpriteKit Tiles](../assets/img/posts/IA/SKTiles.png)
+![SpriteKit Tiles](../assets/img/posts/IA/SKTiles.png)
 
 ## Cross Play
 
@@ -62,6 +68,12 @@ Making a localization, translating all the assets, is kinda boring. But it's wor
 
 Also, the translation process on Xcode doesn't help a lot. I recomendo you create a **Localizable.strings** file on your project, to keep all yout strings, since the beginig. Even if you don't think in translating it now.
 But if you are going to do this anytime, it will save you a lot of time. Plus, removing big sentences from your code and putting into the **Localizable.strings**, improve the readability of it.
+
+## Sticker Pack
+
+While I was codign the main parts of the game, I thought: "I've already drawed all these images, I could use them to something else, maybe something that people could use it..." Nad the idea to start a Sticker Pack had started. Using the same images, and adding some text, I created my first sticker pack - InterAção style.
+
+![Stickers](../assets/img/posts/IA/stickers.jpeg)
 
 ---
 
