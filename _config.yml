@@ -22,8 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-# Uncomment to keep adding the portifolios section
-#  - {name: 'Portifolio', link: '/portifolio'}
+  - {name: 'Portifolio', link: '/portifolio'}
 
 tagline: >
   iOS Developer. Computer Engineering Student at Unicamp, and student at Apple Developer Academy @ Instituto Eldorado.
