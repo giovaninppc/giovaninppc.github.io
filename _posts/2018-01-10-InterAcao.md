@@ -11,11 +11,11 @@ categories: [App]
 InterAção is a Game not to be played alone.
 The idea was for you to get friends or family together and have a good time.
 
-![IA Menu](../assets/img/posts/IA/menu.jpeg)
+![IA Menu](../assets/img/posts/IA/menu.jpg)
 
 I've always enjoyed playing Mimic, and working on InterAção have been great. It was the first app I developed entirely by myself. All the assets, images, code, animations... everything, and it was fantastic.
 
-![IA Game](../assets/img/posts/IA/game.jpeg)
+![IA Game](../assets/img/posts/IA/game.jpg)
 
 ## Artwork
 
@@ -73,7 +73,7 @@ But if you are going to do this anytime, it will save you a lot of time. Plus, r
 
 While I was codign the main parts of the game, I thought: "I've already drawed all these images, I could use them to something else, maybe something that people could use it..." Nad the idea to start a Sticker Pack had started. Using the same images, and adding some text, I created my first sticker pack - InterAção style.
 
-![Stickers](../assets/img/posts/IA/stickers.jpeg)
+![Stickers](../assets/img/posts/IA/stickers.jpg)
 
 ---
 
