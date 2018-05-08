@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+featured-img: Other/instaTable
 permalink: /about/
 ---
 
