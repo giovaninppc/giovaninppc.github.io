@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Portifolio', link: '/portifolio'}
+  - {name: 'Portfolio', link: '/portfolio'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
