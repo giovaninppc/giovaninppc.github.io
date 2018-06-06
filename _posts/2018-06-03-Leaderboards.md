@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS Leaderboards"
+title: "Game Center Leaderboards"
 featured-img: Code/ac
 categories: [Guides]
 ---
