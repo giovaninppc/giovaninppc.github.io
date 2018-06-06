@@ -38,6 +38,8 @@ And both these opportunities have been great experineces.
 I've done a few things after I went to college, I believe the most important ones are here, but I hope I can still do much more.
 🐠
 
+Thaks for reading this story!
+
 ### Contact me
 
 [giovani.x.pereira@gmail.com](mailto:giovani.x.pereira@gmail.com)
