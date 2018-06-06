@@ -50,7 +50,7 @@ After the pods are installed, open the *project*.xcworkspace file created.
 
 Now, open your app's info.plist and add the following lines into the body of your file (between the tags <dict>...</dict>)
 
-```xml
+```
 <key>CFBundleURLTypes</key>
 <array>
   <dict>
@@ -68,7 +68,7 @@ Now, open your app's info.plist and add the following lines into the body of you
 
 If you are going to use Facebook dialogs, such as a share view, login or app invites, also add:
 
-```xml
+```
 <key>LSApplicationQueriesSchemes</key>
 <array>
   <string>fbapi</string>
@@ -167,5 +167,8 @@ They are all available at the [Facebook Developers Documentation](https://develo
 
 ![Facebook Login Button](../assets/img/posts/Facebook/docs.png)
 
+
+
 ---
 I hope this post was useful to you 😉.
+###### The cover image was <a href="https://www.freepik.com/free-vector/facebook-icon-background_1087568.htm">Designed by Freepik</a>
