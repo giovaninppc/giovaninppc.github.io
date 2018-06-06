@@ -50,7 +50,7 @@ After the pods are installed, open the *project*.xcworkspace file created.
 
 Now, open your app's info.plist and add the following lines into the body of your file (between the tags <dict>...</dict>)
 
-```plist
+```xml
 <key>CFBundleURLTypes</key>
 <array>
   <dict>
@@ -68,7 +68,7 @@ Now, open your app's info.plist and add the following lines into the body of you
 
 If you are going to use Facebook dialogs, such as a share view, login or app invites, also add:
 
-```plist
+```xml
 <key>LSApplicationQueriesSchemes</key>
 <array>
   <string>fbapi</string>
