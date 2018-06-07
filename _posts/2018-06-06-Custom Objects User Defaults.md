@@ -10,6 +10,9 @@ categories: [Guides]
 ###### [UserDefaults • Custom • Object • Save • Encode • Decode • User • Defaults • Swift • iOS • Xcode • Swift4]
 
 ### User Defaults
+*An interface to the user’s defaults database, where you store key-value pairs persistently across launches of your app.* [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/userdefaults)
+
+Its basically a dictionary with persistency, where you can save information under a key, and get it back later. This information will survive even if you shut down your app, so the User Defaults can be a pretty interesting way to save information.
 
 ### Custom Objects
 Any class created by you basically.

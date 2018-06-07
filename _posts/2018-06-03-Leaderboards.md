@@ -7,6 +7,8 @@ categories: [Guides]
 
 # iOS Leaderboards
 
+###### [Swift • iOS • GameCenter • Game • Center • Swift4 • Tutorial • Leaderboard]
+
 ### Why create leaderboards
 Leaderboards are a great way to make your users/players more interested on your Game (or app), and creates a sense of competition, because now they can challenge their friends and have worldwide positions.
 

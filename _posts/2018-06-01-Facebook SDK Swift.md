@@ -6,6 +6,7 @@ categories: [Guides]
 ---
 
 # Facebook SDK for iOS (Swift)
+###### [Swift • iOS • Facebook • SDK • API • Swift4 • Tutorial]
 ### Why use it?
 
 The last project I was,

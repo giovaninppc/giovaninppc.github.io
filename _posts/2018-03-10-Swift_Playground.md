@@ -6,7 +6,11 @@ categories: [Playground, Guides]
 ---
 
 # Swift Playgrounds
+
+###### [Playground • SwiftPlayground • Swift • iOS • Xcode • Swift4 • Tutorial]
+
 ## And easy tutorial for Swift language, and app development introduction [available in Portuguese]
+
 
 You will learn:
 - Swift language basics
