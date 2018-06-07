@@ -148,6 +148,6 @@ class CustomObject {
 
 ---
 Hope you liked it! 🤖
-###### Cover image <a href='https://www.freepik.com/free-vector/memphis-pattern_1177561.htm'>designed by Freepik</a>
+###### Cover image <a href="https://www.freepik.com/free-vector/hexagonal-pattern_852781.htm">designed by Freepik</a>
 
 ###### [UserDefaults • Custom • Object • Save • Encode • Decode • User • Defaults • Swift • iOS • Xcode • Swift4]
