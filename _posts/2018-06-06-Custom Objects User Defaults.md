@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Save Custom Objects on UserDefaults"
-featured-img: Code/ac3
+featured-img: Code/ac2
 categories: [Guides]
 ---
 
