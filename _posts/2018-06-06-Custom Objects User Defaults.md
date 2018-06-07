@@ -14,14 +14,14 @@ Its basically a dictionary with persistency, where you can save information unde
 
 ### Custom Objects
 Any class created by you basically.
-Let's make an example using 3 attributes, a String, and Integer and an Image.
+Let's make an example using 3 attributes, a String, an Integer and an Image.
 
 ```swift
 import UIKit
 
 class CustomObject {
 	var name: String = ""
-	var code: Int = ""
+	var code: Int = 0
 	var image: UIImage = UIImage(named: "test")
 	
 	init(name: String, code: Int, image: UIImage) {
