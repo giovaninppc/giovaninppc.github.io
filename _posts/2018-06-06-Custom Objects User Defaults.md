@@ -40,7 +40,7 @@ Now, for some reason, we want to save an instance of this class (a custom object
 If you try to do that by just setting the object for a key on the UserDefaults, you will get an error:
 
 ```swift
-UserDefaults.shared.set(CustomObject(), forKey: <anyKey>)
+UserDefaults.standard.set(CustomObject(), forKey: <anyKey>)
 ```
 
 What you need to do, is make your class inherit from NSObject, and also make it a NSCoding class.
