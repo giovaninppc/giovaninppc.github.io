@@ -6,7 +6,6 @@ categories: [Guides]
 ---
 
 # Facebook SDK for iOS (Swift)
-###### [Swift • iOS • Facebook • SDK • API • Swift4 • Tutorial]
 ### Why use it?
 
 The last project I was,
@@ -173,3 +172,6 @@ They are all available at the [Facebook Developers Documentation](https://develo
 ---
 I hope this post was useful to you 😉.
 ###### The cover image was <a href="https://www.freepik.com/free-vector/facebook-icon-background_1087568.htm">Designed by Freepik</a>
+
+
+###### [Swift • iOS • Facebook • SDK • API • Swift4 • Tutorial]

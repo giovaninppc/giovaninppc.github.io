@@ -7,8 +7,6 @@ categories: [Guides]
 
 # Save Custom Objects to User Defaults
 
-###### [UserDefaults • Custom • Object • Save • Encode • Decode • User • Defaults • Swift • iOS • Xcode • Swift4]
-
 ### User Defaults
 *An interface to the user’s defaults database, where you store key-value pairs persistently across launches of your app.* [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/userdefaults)
 
@@ -151,3 +149,5 @@ class CustomObject {
 ---
 Hope you liked it! 🤖
 ###### Cover image <a href='https://www.freepik.com/free-vector/memphis-pattern_1177561.htm'>designed by Freepik</a>
+
+###### [UserDefaults • Custom • Object • Save • Encode • Decode • User • Defaults • Swift • iOS • Xcode • Swift4]

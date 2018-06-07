@@ -7,8 +7,6 @@ categories: [Playground, Guides]
 
 # Swift Playgrounds
 
-###### [Playground • SwiftPlayground • Swift • iOS • Xcode • Swift4 • Tutorial]
-
 ## And easy tutorial for Swift language, and app development introduction [available in Portuguese]
 
 
@@ -45,3 +43,6 @@ It's just like magic, you have an idea, and you make it happen, and than you sho
 There is a nice feeling of accomplishment.
 
 I super recommend it 😁.
+
+###### [Playground • SwiftPlayground • Swift • iOS • Xcode • Swift4 • Tutorial]
+
