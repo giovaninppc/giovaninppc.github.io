@@ -6,7 +6,7 @@ permalink: /contact/
 
 Hi there!
 
-You can easily talk to me through [my email](mailto:{{site.email}}) of [Facebook](fb.com/giovaninppc) (Just say hi 😉).
+You can easily talk to me through [my email](mailto:{{site.email}}) or [Facebook](fb.com/giovaninppc) (Just say hi 😉).
 
 ### Send Message
 
