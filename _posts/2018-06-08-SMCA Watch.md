@@ -11,7 +11,7 @@ That's right!
 Super Mini Color Arcade is finally comming to Apple Watch
 (I'm sure you didn't expect that, right?).
 
-For the firts version, the WatchApp come with a single mini game, a gesture memory game.
+For the first version, the WatchApp come with a single mini game, a gesture memory game.
 
 ![Super Mini Color Arcade Download Image](../assets/img/posts/SMCA/coverWatch.png)
 
