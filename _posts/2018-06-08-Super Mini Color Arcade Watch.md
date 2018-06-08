@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Save Custom Objects on UserDefaults (iOS)"
+title: "Mini Arcade on Apple Watch"
 featured-img: SMCA/ac2
 categories: [App][Apple Watch]
 ---
