@@ -2,7 +2,7 @@
 layout: post
 title: "Mini Arcade on Apple Watch"
 featured-img: SMCA/ac2
-categories: [App][Apple Watch]
+categories: [App]
 ---
 
 # Super Mini Color Arcade on Apple Watch
