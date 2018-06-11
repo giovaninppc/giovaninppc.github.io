@@ -47,7 +47,7 @@ Outra coisa legal é o scroll automático, se você notar, o Interafce principal
 
 A navegação do app em watchOS tem uma particularidade interessante: **Ela só segue uma direção**. Como assim?
 
-Existem duas formas de ligar os Interface Controllers: lateralmente, ou através de push. Mas nunca **as duas ao mesmo tempo** (pelo menos é o que diz a documentação oficial, e eu realmente aão consegui fazer as duas porque ele gera um erro assim que a mistura de navegações é detectada).
+Existem duas formas de ligar os Interface Controllers: lateralmente, ou através de push. Mas nunca **as duas ao mesmo tempo** (pelo menos é o que diz a documentação oficial, e eu realmente não consegui fazer as duas porque ele gera um erro assim que a mistura de navegações é detectada).
 
 #### Navegação horizontal
 Ligue as interfaces com a relação do tipo **Next Page**, isso já fará automaticamente que o seu app seja **paginado**, permitiando rolar entre suas páginas.
@@ -62,7 +62,7 @@ Você então adiciona uma ação que faz o seguinte:
 
 ```swift
 @IBAction func gotToNextScreen(_ sender: Any) {
-        self.pushController(withName: "nextScreen", context: nil)
+    self.pushController(withName: "nextScreen", context: nil)
 }
 ```
 
@@ -86,7 +86,7 @@ ENTÃO, usei os gestos instanciados diretamente no storyboard (se você jogou o 
 
 Adicione os gestos onde você quer que eles atuem, e faça um Outlet do tipo **Action** para captar os gestos.
 
-"*Ah, mas e se eu quiser configurar os gestos, como mudar duração, tamanho do swipe e tudo mais?*"
+*"Ah, mas e se eu quiser configurar os gestos, como mudar duração, tamanho do swipe e tudo mais?"*
 
 Faça um Outlet comum e altere essas propriedades quando a tela for instanciada.
 
