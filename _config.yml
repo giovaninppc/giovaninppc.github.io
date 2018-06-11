@@ -40,6 +40,7 @@ github_username:  giovaninppc # replace with your_github_username or comment to 
 instagram_username: giovaninppc # replace with your_instagram_username or comment to remove link from footer
 facebook_username: giovaninppc
 linkedin_username: giovaninppc
+rss_feed: https://giovaninppc.github.io//feed.xml
 
 disqus:
   shortname: giovaninppc # to enable comments replace with your_disqus_shortname
