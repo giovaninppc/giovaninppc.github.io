@@ -120,7 +120,7 @@ e coloque como ```NO```.
 
 Isso deve resolver o problema.
 
-> De novo, isso já era um erro conhecido para o qual encontrei solução nos fóruns da Apple.
+> De novo, isso já era um erro conhecido para o qual encontrei solução nos [fóruns da Apple](https://forums.developer.apple.com/thread/13819).
 
 ## Dicas de Design
 
@@ -139,6 +139,10 @@ Registre seu Bundle e adicione o app no **App Store Connect** (antigo iTunes Con
 
 O que você vai achar estranho é que não vai aparecer nada de Apple Watch, ele vai estar todo como iOS app.
 Mas assim que você adicionar uma nova versão de app para mandar pra review, e selecionar uma Build que tenho o watchOS integrado, aí vão aparecer as opções do watch, a seção para adicionar screenshots e tudo mais.
+
+### Mais informações
+
+Para mais informações, veja a [documentação completa no site da Apple](https://developer.apple.com/documentation/watchkit?changes=_1).
 
 ---
 
