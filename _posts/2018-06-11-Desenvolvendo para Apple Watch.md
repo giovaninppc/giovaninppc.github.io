@@ -22,7 +22,7 @@ e depois selecione a opção de WatchKit app (Se você for fazer um jogo, consid
 
 ![New Target](../assets/img/posts/SMCA/newWatchModel.png)
 
-O se projeto de Apple Watch já estará criado e associado ao do iOS.
+O seu projeto de Apple Watch já estará criado e associado ao do iOS.
 
 ### Interface Builder (Storyboard)
 
@@ -30,7 +30,7 @@ Muito similar ao já de apps iOS (se você está familiarizado), mas com algumas
 
 ### WatchKit
 
-Outra diferença é que você não estará usando o **UIKit** do iOS, mas sim o **watchKit**, que no fundo no fundo são muito semelhantes, você acessa as propriedades dos seus objetos instanciados e modifica ainda como quiser. Mas por exemplie, não existe mais **TableViews** agora são apenas **Tables**.
+Outra diferença é que você não estará usando o **UIKit** do iOS, mas sim o **watchKit**, que no fundo no fundo são muito semelhantes, você acessa as propriedades dos seus objetos instanciados e modifica ainda como quiser. Mas por exemplo, não existem mais **TableViews** agora são apenas **Tables**.
 
 Você ainda pode *ligar* os objetos do storyboard ao código usando @IBOutlets normalmente. Abaixo um exemplo tirado direto do SMCA:
 
