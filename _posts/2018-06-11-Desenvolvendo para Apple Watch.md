@@ -132,6 +132,14 @@ Prefira o background preto - quanto menor o uso de cores e luzes, menos bateria 
 
 Leve em conta qual o tipo de transição/navegação que será utilizada no seu app também.
 
+## Subir para a loja
+Com o app associado a um de iOS é bem simples mandar seu app para a loja, e basicamente os mesmos passos de um app iOS.
+
+Registre seu Bundle e adicione o app no **App Store Connect** (antigo iTunes Connect), faça um **Archive** do app e através da janela **Organizer** faça upload.
+
+O que você vai achar estranho é que não vai aparecer nada de Apple Watch, ele vai estar todo como iOS app.
+Mas assim que você adicionar uma nova versão de app para mandar pra review, e selecionar uma Build que tenho o watchOS integrado, aí vão aparecer as opções do watch, a seção para adicionar screenshots e tudo mais.
+
 ---
 
 Boa sorte desenvolvendo seu app para watch! Se esse tutorial te ajudou, conte pra mim depois 😉.
