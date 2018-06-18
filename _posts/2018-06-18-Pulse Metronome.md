@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "RPG Kit"
+title: "Pulse Metronome"
 featured-img: Metronome/sticker
 categories: [App]
 ---
 
 # Pulse Metronome
 
-I'm on a row of watchOS apps here!
+##### I'm on a sequence of watchOS apps here!
 
 If you don't know, I'm a pianist (or at least I try to be 😘).
 
