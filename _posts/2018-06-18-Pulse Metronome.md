@@ -32,4 +32,4 @@ ___
 
 If you liked it, download on the app store:
 
-![apple watch screenshots](../assets/img/posts/Metronome/download.png)
+[![apple watch screenshots](../assets/img/posts/Metronome/download.png)](https://itunes.apple.com/us/app/pulse-metronome/id1400514577?mt=8)
