@@ -1,34 +1,91 @@
-<!DOCTYPE html>
 <html>
-<head>
-	<title>Init from html</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-	<link rel="stylesheet" type="text/css" href="../../../codebase/fonts/font_roboto/roboto.css"/>
-	<link rel="stylesheet" type="text/css" href="../../../codebase/dhtmlx.css"/>
-	<script src="../../../codebase/dhtmlx.js"></script>
-	<script>
-		var myMenu;
-		function initMenu() {
-			myMenu = new dhtmlXMenuObject("menuObj");
-			myMenu.setIconsPath("../common/imgs/");
-			myMenu.loadFromHTML("menuData", true);
-			document.getElementById("buttonHere").style.display = "none";
-		}
-	</script>
-</head>
-<body>
-	<div style="height: 30px;" id="a">
-		<a href="https://ifood.com/c542222a-dba8-4eed-a1c8-130f2d8c3b17">Plan 1</a>
-	</div>
-	<div style="height: 100px;">
-		<div id="menuObj"></div>
-	</div>
-	<div style="height: 30px;" id="b">
-		<a href="https://ifood/4fa2cdbe-3ecd-4c5f-a75a-d8f7642d67e8">Plan 2</a>
-	</div>
-	<div style="height: 250px;">
-		<div id="menuObj"></div>
-	</div>
-</body>
+    <head>
+        <title>Plus Test</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+        <style>
+            body {
+                margin: 50px 20px 10px 20px;
+            }
+            button {
+                margin-top: 4px;
+                margin-bottom: 4px;
+                width: 100% !important;
+            }
+        </style>
+        <script type="text/javascript">
+            // Uncomment to run on browser
+//            window.iFoodGetPlusPlans = function () {
+//               return [
+//                    { 
+//                        "id": "c542222a-dba8-4eed-a1c8-130f2d8c3b17",
+//                        "description": "iFood Plus com valor de R$ 9,90 mensal e 3 meses grátis",
+//                    },
+//                    { 
+//                        "id": "c542222a-dba8-4eed-a1c8-130f2d8c3b12",
+//                        "description": "iFood Plus com valor de R$ 19,90 mensal e 3 meses grátis",
+//                    },
+//                ]
+//            }
+
+            const getPlusPlansSafe = function () {
+                return new Promise(function (resolve, reject) {
+                    const maxIterations = 10
+                    var iterations = 0
+
+                    const checkInjectedFunction = function () {
+                        if (window.iFoodGetPlusPlans) {
+                            resolve(iFoodGetPlusPlans())
+                        } else {
+                            if (iterations < maxIterations) {
+                                iterations += 1;
+                                console.log("Checked " + iterations + " times")
+                                setTimeout(function () {
+                                    checkInjectedFunction()
+                                }, 1000)
+                            } else {
+                                reject({ message: "Function iFoodGetPlusPlans was not injected in " + maxIterations + " secs" })
+                            }
+                        }
+                    }
+
+                    console.log("Promise getPlusPlans start")
+                    checkInjectedFunction() // Start recursion for promise
+                })
+            }
+
+            const changeTheme = function (isLight) {
+                document.body.style.background = isLight ? "#fff" : "#000"
+                document.body.style.color = isLight ? "#000" : "#fff"
+                iFoodSetThemeAsLight(isLight)
+            }
+
+            window.onload = function () {
+                getPlusPlansSafe()
+                    .then(function(data) {
+                        document.querySelector("#content").innerHTML = JSON.stringify(data, null, "\t")
+                        document.querySelector("#buttons").innerHTML = data
+                            .map(function (item) {
+                                return "<button type=\"button\" class=\"btn btn-primary\" onclick=\"iFoodSubscribePlan('" + item.id + "')\">" + item.metadata.footerNotes.text + "</button>"
+                            })
+                            .join("<br />")
+                    })
+                    .catch(function (error) {
+                        alert(error.message)
+                    })
+            }
+        </script>
+    </head>
+    <body>
+        <button type="button" class="btn btn-primary" onclick="iFoodClosePlus()">Voltar</button>
+        <h4>Temas</h4>
+        <button type="button" class="btn btn-primary" onclick="changeTheme(true)">Claro</button>
+        <button type="button" class="btn btn-primary" onclick="changeTheme(false)">Escuro</button>
+        <h4>Planos:</h4>
+        <div id="buttons"></div>
+        <Br />
+        <h4>JSON:</h4>
+        <pre id="content"></pre>
+        <hr />
+    </body>
 </html>
