@@ -5,7 +5,7 @@ featured-img: Events/WWDC/sticker
 categories: [Event,WWDC,altconf]
 ---
 
-> This post is a work in progress
+> **This post is a work in progress**
 
 # The Events
 
@@ -13,7 +13,11 @@ I went last week to the Altconf and I had the chance to see a some of the keynot
 
 It was a great opportunity, I had tons of fun and could gather a bunch of knowledge and meet some interesting new people too.
 
+Since I was attending to the Altconf, not to the WWDC directly, most of the content I'll post on the next days are about the altconf contents.
+
 ## Altconf
+
+What's the altconf?
 
 Altconf is an open event, that happens in parallel to the WWDC - and this year right next to it.
 
@@ -21,6 +25,7 @@ If I would say the biggest difference from WWDC and Altconf in content is, is th
 
 Here's some of the content I saw during the event, and I'm here to share with you:
 
+- [Pay it forward by being you](https://giovaninppc.github.io/Pay-it-forward-by-being-you/)
 - [Optimizing Images](https://giovaninppc.github.io/Optimizing-Images/)
 - [Dealing with Asian characters](https://giovaninppc.github.io/Asian-Characters/)
 
