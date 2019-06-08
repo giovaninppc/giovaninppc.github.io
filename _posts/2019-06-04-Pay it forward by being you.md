@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pay it forward by being you"
-featured-img: Events/altconf/sticker
+featured-img: Events/Altconf/sticker
 categories: [Event,altconf]
 ---
 
