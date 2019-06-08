@@ -2,11 +2,11 @@
 layout: post
 title: "Optimizing Images"
 featured-img: Events/Altconf/sticker
-categories: [Event]
+categories: [Event,altconf]
 ---
 
 # Optimizing Images
-### Based on the speech of Jordan Morgan, Altconf 2019 - San Jose
+### Based on the speech of Jordan Morgan, @ altconf 2019
 
 Creating apps, most of the time we are not worried about the content we download and display on it. If you are working on a company, the images, content, JSONs are mostly made for mobile applications and it should work nicely, right?
 
