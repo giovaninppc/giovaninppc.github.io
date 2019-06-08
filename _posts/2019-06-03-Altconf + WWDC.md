@@ -2,7 +2,7 @@
 layout: post
 title: "Altconf + WWDC"
 featured-img: Events/WWDC/sticker
-categories: [Event]
+categories: [Event,WWDC,altconf]
 ---
 
 > This post is a work in progress
@@ -19,7 +19,7 @@ Altconf is an open event, that happens in parallel to the WWDC - and this year r
 
 If I would say the biggest difference from WWDC and Altconf in content is, is that WWDC is focused on the new stuff released by Apple - totally - and Altconf brings people from all over the world to talk about what they already do, what is working, or what is not working.
 
-Here's some of the content I saw during the event, and Im here to share with you:
+Here's some of the content I saw during the event, and I'm here to share with you:
 
 - [Optimizing Images](https://giovaninppc.github.io/Optimizing-Images/)
 - [Dealing with Asian characters](https://giovaninppc.github.io/Asian-Characters/)
