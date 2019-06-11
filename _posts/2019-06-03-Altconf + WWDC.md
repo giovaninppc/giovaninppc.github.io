@@ -5,11 +5,12 @@ featured-img: Events/WWDC/sticker
 categories: [Event,WWDC,altconf]
 ---
 
-> **This post is a work in progress**
+> **This post is a work in progress,
+> I'll update while posting things from the both conferences**
 
 # The Events
 
-I went last week to the Altconf and I had the chance to see a some of the keynotes of the WWDC (the world's biggest developer conference, hosted by Apple in San Jose).
+I went last week to the Altconf and I had the chance to see some of the keynotes transmissions of the WWDC (the world's biggest developer conference, hosted by Apple in San Jose).
 
 It was a great opportunity, I had tons of fun and could gather a bunch of knowledge and meet some interesting new people too.
 
